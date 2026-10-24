@@ -5,7 +5,7 @@
         {
           "version": "0.2.0",
           "update_link": "https://raw.githubusercontent.com/zhuzihan728/zotero-minimise-tray/main/dist/zotero-mini-tray-0.2.0.xpi",
-          "update_hash": "sha256:29f13dcda4a183c825b9e24e433a40077b89a295b53403cc941f58904a55b872",
+          "update_hash": "sha256:b9317f0d99f8b09d1cd5dc056d38d2fbafb71c7520eea1c657839365d253d142",
           "applications": {
             "zotero": {
               "strict_min_version": "7.0",
